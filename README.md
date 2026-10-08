@@ -11,3 +11,5 @@ Open `index.html` in a web browser. No installation or build step is required.
 Edit a value or move its slider. The projection, charts, and annual schedules update automatically. Expand **Breakdown & assumptions** to review the calculation details.
 
 Estimates are illustrative; actual returns and inflation will vary.
+
+you can contribute too
